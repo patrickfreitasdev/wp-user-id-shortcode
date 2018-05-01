@@ -2,11 +2,11 @@
     
 /**
  * Plugin Name: User ID shortcut
- * Plugin URI: 
+ * Plugin URI: https://github.com/patrickfreitasdev/wp-user-id-shortcut
  * Description: This Plugin shows the USER ID number using a shortcut. It had been developed to help wordpress developers who are needs to show this information anywhere. 
  * Version: 1.0
  * Author: Patrick de Freitas
- * Author URI: http://github.com
+ * Author URI: https://github.com/patrickfreitasdev
  * License: GPLv3 or later
  * Text Domain: user-id-shortcut
  */
