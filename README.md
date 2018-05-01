@@ -6,7 +6,7 @@ You can use any page/post or any php file.
 
 To use this plugin you just need to install the plugin then use the shortcut [show-me-id] or in the php file using the function <?php echo do_shortcode("[show-me-id]"); ?>
 
-Also it comes with css class to customize, <span class="usr-id">.
+Also it comes with css class to customize, class="usr-id"
   
 ----
 
