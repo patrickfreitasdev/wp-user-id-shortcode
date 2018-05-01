@@ -39,7 +39,7 @@ function show(){
     $current_user = wp_get_current_user();
     //Verify if is there any user logged
     if($current_user->ID == 0){
-        echo "No user is logged";
+        echo "<span class='usr-id'>No logged user</span>";
     }else{
     ?>
     <span class="usr-id"><?php 
