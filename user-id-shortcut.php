@@ -11,7 +11,6 @@
  * Text Domain: user-id-shortcut
  */
 
-//Comments that show in plugin information.
 
 /*
     This program is free software: you can redistribute it and/or modify
