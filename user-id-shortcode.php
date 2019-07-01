@@ -8,7 +8,7 @@
  * Author: Patrick de Freitas
  * Author URI: https://github.com/patrickfreitasdev
  * License: GPLv3 or later
- * Text Domain: user-id-shortcut
+ * Text Domain: user-id-shortcode
  */
 
 
