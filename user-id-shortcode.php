@@ -30,7 +30,7 @@
 //Using this to protect the plugin
 defined('ABSPATH') or die('What are you looking for?');
 
-//Starting the function to show ID user by Shortcut
+//Starting the function to show ID user by shortcode
 function show(){
    
     ob_start();
