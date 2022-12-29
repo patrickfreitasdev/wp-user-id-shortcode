@@ -3,7 +3,7 @@
 /**
  * Plugin Name: User ID shortcode
  * Plugin URI: https://github.com/patrickfreitasdev/wp-user-id-shortcode
- * Description: This Plugin shows the USER ID number using a shortcut. It had been developed to help wordpress developers who are needs to show this information anywhere. 
+ * Description: This Plugin shows the USER ID number using a shortcode. It had been developed to help wordpress developers who are needs to show this information anywhere. 
  * Version: 1.0
  * Author: Patrick de Freitas
  * Author URI: https://github.com/patrickfreitasdev
